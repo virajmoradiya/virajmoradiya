@@ -58,7 +58,7 @@ Welcome to my GitHub profile! 👋 I'm a passionate **Flutter Developer** and **
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=virajmoradiya&theme=merko&fire=00ffcc&ring=00ffcc&currStreakLabel=ffffff&sideNums=ffffff&background=000000&border=000000&stroke=00ffcc&border_radius=10)
 
 ### 💻 GitHub Profile Stats
-![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virajmoradiya&show_icons=true&count_private=true&include_all_commits=true&theme=merko&title_color=00ffcc&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10)
+![Viraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virajmoradiya&show_icons=true&count_private=true&include_all_commits=true&theme=merko&title_color=00ffcc&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10)
 
 ### 🔝 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=virajmoradiya&layout=compact&theme=merko&title_color=00ffcc&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10&count_private=true)
