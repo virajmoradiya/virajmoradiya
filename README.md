@@ -4,6 +4,7 @@
   <br />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajmoradiya&label=Profile%20views&color=0e75b6&style=flat" alt="virajmoradiya" /> </p>
 
 🎯 **Flutter Developer | Cross-Platform Enthusiast | Firebase expert**
 
