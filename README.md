@@ -17,7 +17,6 @@ Welcome to my GitHub profile! 👋 I'm a passionate **Flutter Developer** and **
 - 🔭 I’m currently working on a **SaaS product** to improve business workflows.
 - 🌱 I’m learning **advanced backend development with Firebase** and **Cloud Functions**.
 - 💬 Ask me aything about **Flutter**, **Firebase**, and building **cross-platform apps**.
-- 📫 Reach me at: [vmoradiya2001@gmail.com](mailto:vmoradiya2001@gmail.com)
 - ⚡ Fun fact: I love creating apps that work effortlessly on all platforms!
  
 ---
@@ -65,12 +64,7 @@ Welcome to my GitHub profile! 👋 I'm a passionate **Flutter Developer** and **
 
 ---
 
-## 📫 Let's Connect
-
-- 📧 **Email**: [vmoradiya2001@gmail.com](mailto:vmoradiya2001@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/virajmoradiya](#)
 - 💻 **Hire me on Upwork**: [upwork.com/freelancers/flutterappdeveloper](#)
-- 👨‍💻 **Hire me on Fiverr**: [fiverr.com/viraj_moradiya](#)
 
 ---
 
